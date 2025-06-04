@@ -1,4 +1,4 @@
-#EXTM3U
+-#EXTM3U
 
 #EXTINF:-1 tvg-id="a2z" tvg-logo="https://res.cloudinary.com/lomi/image/upload/v1742395014/KayLomiToWagNakawin/JokeLang/KungGagamitinLogoPaCreditNaLangAko/Salamat/IPTV/Cignal%20Play/a2z.png?cache=20250322042023" group-title="Cignal Play", A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28720,184 +28720,184 @@ https://dl.dropboxusercontent.com/s/zggcr89w1voyl175cf072/Incognito.2025.S01E067
 https://dl.dropboxusercontent.com/s/vk0fxpyv4z7z1odynipdr/Incognito.2025.S01E068.720p.NF.WEB-DL.x264.ESub.Hollymoviehd.mp4?rlkey=7qbmueb5ktxckmh80tb3fduf8&dl=0
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", holy night: demon hunters
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", holy night: demon hunters
 http://tevh.9ljp.com/vod/1/2025/05/22/1266d0213d84/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", fountain of youth
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", fountain of youth
 http://tevh.9ljp.com/vod/1/2025/05/24/c186c1f6116d/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", the accountant 2
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", the accountant 2
 http://tevh.9ljp.com/vod/1/2025/05/13/f429d60ac852/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", last bullet
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", last bullet
 http://tevh.9ljp.com/vod/1/2025/05/07/13767d3bc04d/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", wicked
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", wicked
 http://tevh.9ljp.com/vod/1/2025/01/03/319d202be4da/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", final destination bloodlines
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", final destination bloodlines
 http://tevh.9ljp.com/vod/1/2025/05/19/70fc8ac5b218/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", mission impossible - dead reckoning part 2
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", mission impossible - dead reckoning part 2
 http://tevh.9ljp.com/vod/1/2025/05/20/e6a95b07d562/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", lilo & stitch
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", lilo & stitch
 http://tevh.9ljp.com/vod/1/2025/05/22/85ae37cc0bdf/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", my future you
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", my future you
 http://tevh.9ljp.com/vod/1/2025/05/16/70cee16a63e7/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", thunderbolts
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", thunderbolts
 http://tevh.9ljp.com/vod/1/2025/05/26/b89f691c1172/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", karate kid 2025
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", karate kid 2025
 http://tevh.9ljp.com/vod/1/2025/05/10/62be47a07547/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", snow white
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", snow white
 http://tevh.9ljp.com/vod/1/2025/04/29/e18c596ecd0e/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", a widow's game
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", a widow's game
 http://tevh.9ljp.com/vod/1/2025/05/30/d3ff663471f1/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", sinners
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", sinners
 http://tevh.9ljp.com/vod/1/2025/04/18/7327ae896034/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", a Minecraft movie
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", a Minecraft movie
 http://tevh.9ljp.com/vod/1/2025/04/18/b024714ca88a/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", silent zone
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", silent zone
 http://tevh.9ljp.com/vod/1/2025/03/29/5a6b54a36c90/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", sampung utos kay josh
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", sampung utos kay josh
 http://tevh.9ljp.com/vod/1/2025/04/17/33b84430e879/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", a working man
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", a working man
 http://tevh.9ljp.com/vod/1/2025/04/23/f764930dd7ed/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", the gorge
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", the gorge
 http://tevh.9ljp.com/vod/1/2025/02/15/d0bde1d7af88/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", captain America: brave new world
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", captain America: brave new world
 http://tevh.9ljp.com/vod/1/2025/05/08/99e5b571d847/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", until dawn
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", until dawn
 http://tevh.9ljp.com/vod/1/2025/05/29/e3c1d0e2fffb/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", the wild robot
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", the wild robot
 http://tevh.9ljp.com/vod/1/2024/10/17/7c894e7e7970/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", talk to me
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", talk to me
 http://tevh.9ljp.com/vod/1/2023/10/09/cebb7eda82ab/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", mike birbigilia: the goodlife
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", mike birbigilia: the goodlife
 http://tevh.9ljp.com/vod/1/2025/05/26/fd5332207a99/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", hit: the third case
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", hit: the third case
 http://tevh.9ljp.com/vod/1/2025/05/30/a805ed67fa9e/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", lost in starlight
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", lost in starlight
 http://tevh.9ljp.com/vod/1/2025/05/30/9f0e880d2b65/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", fear street: prom queen
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", fear street: prom queen
 http://tevh.9ljp.com/vod/1/2025/05/23/485310abeef5/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", retro
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", retro
 http://tevh.9ljp.com/vod/1/2025/05/30/1a5b5629d981/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", untold: the fall of favre
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", untold: the fall of favre
 http://tevh.9ljp.com/vod/1/2025/05/20/faf3a43dd242/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", nonnas
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", nonnas
 http://tevh.9ljp.com/vod/1/2025/05/09/ad1d10f35141/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", heart eyes
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", heart eyes
 http://tevh.9ljp.com/vod/1/2025/03/05/2a8db1a740a5/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", I'm still here
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", I'm still here
 http://tevh.9ljp.com/vod/1/2025/03/11/b98e0e16d7b1/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", untold: the liver king
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", untold: the liver king
 http://tevh.9ljp.com/vod/1/2025/05/13/3f5ac291e4d1/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", paddington in peru
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", paddington in peru
 http://tevh.9ljp.com/vod/1/2025/02/14/b241b3a6cdd9/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", venom: the last dance
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", venom: the last dance
 http://tevh.9ljp.com/vod/1/2024/12/11/c9d40e4c9154/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", beyond skyline
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", beyond skyline
 http://tevh.9ljp.com/vod/1/2023/11/08/43b7c2f2b400/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", havoc
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", havoc
 http://tevh.9ljp.com/vod/1/2025/04/25/79d17bd771ac/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", the heart knows
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", the heart knows
 http://tevh.9ljp.com/vod/1/2025/05/30/db0fae1de233/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", air force elite: thunderbirds
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", air force elite: thunderbirds
 http://tevh.9ljp.com/vod/1/2025/05/23/a07f925ed433/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", Beetlejuice 2
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", Beetlejuice 2
 http://tevh.9ljp.com/vod/1/2024/10/17/3aa79c1d59ec/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", exterritorial
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", exterritorial
 http://tevh.9ljp.com/vod/1/2025/04/30/752d2600b316/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", kraven the hunter
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", kraven the hunter
 http://tevh.9ljp.com/vod/1/2025/02/14/fa5b0b59bac9/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", Britain and the blitz
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", Britain and the blitz
 http://tevh.9ljp.com/vod/1/2025/05/05/cde4a6af7162/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", Sicario
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", Sicario
 http://tevh.9ljp.com/vod/1/2023/11/11/96c03dbe42bb/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", one of them days
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", one of them days
 http://tevh.9ljp.com/vod/1/2025/02/22/99d9b5542837/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", saturday night
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", saturday night
 http://tevh.9ljp.com/vod/1/2024/11/12/0a9c166fe14b/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", crazy, stupid, love,
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", crazy, stupid, love,
 http://tevh.9ljp.com/vod/1/2023/10/09/1ffc44965251/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", past lives
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", past lives
 http://tevh.9ljp.com/vod/1/2025/02/17/98ad631ead8f/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", macgruber
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", macgruber
 http://tevh.9ljp.com/vod/1/2023/09/05/35dccc52e053/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", dunkirk
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", dunkirk
 http://tevh.9ljp.com/vod/1/2024/11/07/36d255e90db7/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", the town
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", the town
 http://tevh.9ljp.com/vod/1/2024/03/28/c5f1838c0348/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", hop
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", hop
 http://tevh.9ljp.com/vod/1/2023/10/27/95b90f72fa91/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", the equalizer
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", the equalizer
 http://tevh.9ljp.com/vod/1/2024/10/16/849713235285/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", rear window
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", rear window
 http://tevh.9ljp.com/vod/1/2023/09/04/32fafa70784b/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", heat
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", heat
 http://tevh.9ljp.com/vod/1/2023/10/09/9388d3fc67ea/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", parasite
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", parasite
 http://tevh.9ljp.com/vod/1/2023/08/02/abc9cbad97f3/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", ocean eleven 
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", ocean eleven 
 http://tevh.9ljp.com/vod/1/2024/09/03/162a267f0a33/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", barbarian
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", barbarian
 http://tevh.9ljp.com/vod/1/2023/10/28/53357fcf0028/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", now you see me
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", now you see me
 http://tevh.9ljp.com/vod/1/2024/07/04/9467145463bb/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", now you see me 2
+#EXTINF:-1 type="movie" tvg-logo="https://drive.usercontent.google.com/download?id=1IbJR5GaUyPAle1UQmLvXxEeVMcIYIcRD&export=download" group-title="Latest movies 2025", now you see me 2
 http://tevh.9ljp.com/vod/1/2023/08/08/8dd96bf7ab09/index5.m3u8
 
 
