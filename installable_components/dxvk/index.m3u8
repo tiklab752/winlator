@@ -17347,6 +17347,8 @@ https://scvo.banesdulcielac.sbs/v4/ic/onrb99/cf-master.txt?v=1740635162|referer=
 #EXTINF:-1 type="movie" group-title="Indo Movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qs1eHTW1VjYwEKN5vfGeyC4793U.jpg",Dead Mine (2022)
 https://sxic.monkberga.sbs/v4/xq/5dney/cf-master.txt?v=1737323565|referer=https://ply.upns.one/&origin=https://ply.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
+#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230904/e8fc438bd0ff.jpg" group-title="Requested Movies", Love,rosie
+http://tevh.9ljp.com/vod/1/2025/03/03/8bc9e6dfe5a4/index5.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230904/e8fc438bd0ff.jpg" group-title="Requested Movies", A walk to remember
 http://tevh.9ljp.com/vod/1/2023/12/26/3cf005b730f3/index5.m3u8
@@ -17375,6 +17377,8 @@ http://tevh.9ljp.com/vod/1/2023/10/31/5d81df545c03/index5.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20231023/d9abb6e3a565.jpg" group-title="Requested Movies", the one
 http://tevh.9ljp.com/vod/1/2023/10/23/80a770816cf5/index5.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", kpop demon hunters
+http://tevh.9ljp.com/vod/1/2025/06/21/d40a381cabb8/index5.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", demon slayer infinity castle
 http://tevh.9ljp.com/vod/1/2025/07/21/3210fd428afa/index5.m3u8
