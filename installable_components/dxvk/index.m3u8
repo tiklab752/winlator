@@ -2120,24 +2120,11 @@ https://v4-vno-u120-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b  
 https://v4-vno-u120-cdn-02.live.cdn.cgates.lt/live/dash/560505/index.mpd
 
-
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025",the conjuring last rites
-http://tevh.9ljp.com/vod/1/2025/09/05/db0c659549b9/index5.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", kpop demon hunters
 http://tevh.9ljp.com/vod/1/2025/06/21/d40a381cabb8/index5.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", demon slayer infinity castle
-http://tevh.9ljp.com/vod/1/2025/07/21/3210fd428afa/index5.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", Ziam
 http://tevh.9ljp.com/vod/1/2025/07/10/a8bae02840ce/index5.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", superman 2025
-http://tevh.9ljp.com/vod/1/2025/07/12/60431209a133/index5.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", my love will make you disappear
-http://tevh.9ljp.com/vod/1/2025/07/10/a4313e907cda/index5.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", bullet train explosion
 http://tevh.9ljp.com/vod/1/2025/04/24/176b954610e6/index5.m3u8
@@ -2156,9 +2143,6 @@ http://tevh.9ljp.com/vod/1/2025/05/07/13767d3bc04d/index5.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", wicked
 http://tevh.9ljp.com/vod/1/2025/01/03/319d202be4da/index5.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", final destination bloodlines
-http://tevh.9ljp.com/vod/1/2025/05/19/70fc8ac5b218/index5.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://tevh.9ljp.com/img/vod_pic/20230814/9ccee221b225.jpg" group-title="Latest movies 2025", mission impossible - dead reckoning part 2
 http://tevh.9ljp.com/vod/1/2025/05/20/e6a95b07d562/index5.m3u8
